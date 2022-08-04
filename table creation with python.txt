@@ -1,0 +1,1 @@
+csvsql --dialect mysql --snifflimit 100000 sales_data_final.csv > output_sales.sql
